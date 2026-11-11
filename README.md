@@ -57,7 +57,3 @@ The app opens at `http://localhost:8501`.
 - Rolling cross-validation for a more reliable accuracy estimate
 - Add extra regressors such as trading volume or market indices
 - Compare against ARIMA or LSTM models
-
-## Author
-**Divyanshi Gupta** · B.Tech CSE (AI & ML), SRM Institute of Science and Technology
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
