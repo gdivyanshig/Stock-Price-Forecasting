@@ -44,10 +44,6 @@ The app opens at `http://localhost:8501`.
 4. **Evaluate**: hide the last N days, train on the rest, predict the hidden days, and report the error.
 5. **Visualise**: plot actual vs forecast with the uncertainty band, plus the trend and seasonality components.
 
-## Screenshots
-<!-- Add screenshots after running the app, for example: -->
-<!-- ![Forecast](screenshots/forecast.png) -->
-
 ## Limitations
 - Stock prices behave close to a random walk, so forecasts are only illustrative. **This is not financial advice.**
 - Prophet uses only past prices and ignores news, earnings and market events.
